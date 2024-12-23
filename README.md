@@ -36,17 +36,3 @@ The project utilized the following datasets:
 ### Data Sources:
 - [Federal Financial Institutions Examination Council (FFIEC)](https://www.ffiec.gov/)
 - [Federal Reserve Bank of New York](https://www.newyorkfed.org/)
-
----
-
-## Technologies Used
-
-- **Languages:**
-  - Python
-  - R
-- **Libraries:**
-  - Pandas
-  - NumPy
-- **Tools:**
-  - Jupyter Notebook
-  - GitHub for version control
