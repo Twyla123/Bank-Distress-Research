@@ -17,11 +17,6 @@ This project analyzes bank distress by integrating and classifying complex finan
   - Cross-referenced unmatched entries with credit union data to ensure dataset completeness.
   - Merged LOC data with the Federal Reserve Bank of New York’s Banking Research Datasets to identify publicly traded banks.
 
-### Skills Developed:
-- Advanced data integration and classification techniques.
-- Handling and analyzing large-scale financial datasets with multiple reporting layers.
-- Gaining insights into the banking sector, with a focus on the financial health and structures of publicly traded banks.
-
 ---
 
 ## Dataset Information
