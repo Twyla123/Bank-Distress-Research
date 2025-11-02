@@ -1,0 +1,1585 @@
+Year,File Type,File Name,Column Name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,as_of_year
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,respondent_id
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_abbr
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_code
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_amount_000s
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_abbr
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_code
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_code
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,census_tract_number
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_1
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_1
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_2
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_2
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_3
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_3
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_4
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_4
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_5
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_5
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_1
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_1
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_2
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_2
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_3
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_3
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_4
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_4
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_5
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_5
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_income_000s
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_1
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_1
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_2
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_2
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_3
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_3
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,rate_spread
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status_name
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,sequence_number
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,population
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,minority_population
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hud_median_family_income
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,tract_to_msamd_income
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_owner_occupied_units
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_1_to_4_family_units
+,LAR,hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,application_date_indicator
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,as_of_year
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,respondent_id
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_abbr
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_code
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_amount_000s
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_abbr
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_code
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_code
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,census_tract_number
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_1
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_1
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_2
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_2
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_3
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_3
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_4
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_4
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_5
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_5
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_1
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_1
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_2
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_2
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_3
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_3
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_4
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_4
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_5
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_5
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_income_000s
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_1
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_1
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_2
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_2
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_3
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_3
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,rate_spread
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status_name
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,sequence_number
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,population
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,minority_population
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hud_median_family_income
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,tract_to_msamd_income
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_owner_occupied_units
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_1_to_4_family_units
+,LAR,hmda_2013_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,application_date_indicator
+,TS,hmda_2016_transmittal_sheet.csv,Activity Year
+,TS,hmda_2016_transmittal_sheet.csv,Respondent ID
+,TS,hmda_2016_transmittal_sheet.csv,Agency Code
+,TS,hmda_2016_transmittal_sheet.csv,Federal Tax ID
+,TS,hmda_2016_transmittal_sheet.csv,Respondent Name
+,TS,hmda_2016_transmittal_sheet.csv,Respondent Mailing Address
+,TS,hmda_2016_transmittal_sheet.csv,Respondent City
+,TS,hmda_2016_transmittal_sheet.csv,Respondent State
+,TS,hmda_2016_transmittal_sheet.csv,Respondent ZIP Code
+,TS,hmda_2016_transmittal_sheet.csv,Parent Name
+,TS,hmda_2016_transmittal_sheet.csv,Parent Address
+,TS,hmda_2016_transmittal_sheet.csv,Parent City
+,TS,hmda_2016_transmittal_sheet.csv,Parent State
+,TS,hmda_2016_transmittal_sheet.csv,Parent ZIP Code
+,TS,hmda_2016_transmittal_sheet.csv,Respondent Name (Panel)
+,TS,hmda_2016_transmittal_sheet.csv,Respondent City (Panel)
+,TS,hmda_2016_transmittal_sheet.csv,Respondent State (Panel)
+,TS,hmda_2016_transmittal_sheet.csv,Assets
+,TS,hmda_2016_transmittal_sheet.csv,Other Lender Code
+,TS,hmda_2016_transmittal_sheet.csv,Region Code
+,TS,hmda_2016_transmittal_sheet.csv,LAR Count
+,TS,hmda_2016_transmittal_sheet.csv,Validity Error
+,Panel,hmda_2016_panel.csv,Activity Year
+,Panel,hmda_2016_panel.csv,Respondent ID
+,Panel,hmda_2016_panel.csv,Agency Code
+,Panel,hmda_2016_panel.csv,Parent Respondent ID
+,Panel,hmda_2016_panel.csv,Parent Name (Panel)
+,Panel,hmda_2016_panel.csv,Parent City (Panel)
+,Panel,hmda_2016_panel.csv,Parent State (Panel)
+,Panel,hmda_2016_panel.csv,Region
+,Panel,hmda_2016_panel.csv,Assets
+,Panel,hmda_2016_panel.csv,Other Lender Code
+,Panel,hmda_2016_panel.csv,Respondent Name (Panel)
+,Panel,hmda_2016_panel.csv,Respondent City (Panel)
+,Panel,hmda_2016_panel.csv,Respondent State (Panel)
+,Panel,hmda_2016_panel.csv,Top Holder RSSD ID
+,Panel,hmda_2016_panel.csv,Top Holder Name
+,Panel,hmda_2016_panel.csv,Top Holder City
+,Panel,hmda_2016_panel.csv,Top Holder State
+,Panel,hmda_2016_panel.csv,Top Holder Country
+,Panel,hmda_2016_panel.csv,Respondent RSSD ID
+,Panel,hmda_2016_panel.csv,Parent RSSD ID
+,Panel,hmda_2016_panel.csv,Respondent FIPS State Number
+,TS,hmda_2014_transmittal_sheet.csv,Activity Year
+,TS,hmda_2014_transmittal_sheet.csv,Respondent ID
+,TS,hmda_2014_transmittal_sheet.csv,Agency Code
+,TS,hmda_2014_transmittal_sheet.csv,Federal Tax ID
+,TS,hmda_2014_transmittal_sheet.csv,Respondent Name
+,TS,hmda_2014_transmittal_sheet.csv,Respondent Mailing Address
+,TS,hmda_2014_transmittal_sheet.csv,Respondent City
+,TS,hmda_2014_transmittal_sheet.csv,Respondent State
+,TS,hmda_2014_transmittal_sheet.csv,Respondent ZIP Code
+,TS,hmda_2014_transmittal_sheet.csv,Parent Name
+,TS,hmda_2014_transmittal_sheet.csv,Parent Address
+,TS,hmda_2014_transmittal_sheet.csv,Parent City
+,TS,hmda_2014_transmittal_sheet.csv,Parent State
+,TS,hmda_2014_transmittal_sheet.csv,Parent ZIP Code
+,TS,hmda_2014_transmittal_sheet.csv,Respondent Name (Panel)
+,TS,hmda_2014_transmittal_sheet.csv,Respondent City (Panel)
+,TS,hmda_2014_transmittal_sheet.csv,Respondent State (Panel)
+,TS,hmda_2014_transmittal_sheet.csv,Assets
+,TS,hmda_2014_transmittal_sheet.csv,Other Lender Code
+,TS,hmda_2014_transmittal_sheet.csv,Region Code
+,TS,hmda_2014_transmittal_sheet.csv,LAR Count
+,TS,hmda_2014_transmittal_sheet.csv,Validity Error
+,Panel,2022_public_panel_one_year_csv.csv,activity_year
+,Panel,2022_public_panel_one_year_csv.csv,lei
+,Panel,2022_public_panel_one_year_csv.csv,tax_id
+,Panel,2022_public_panel_one_year_csv.csv,agency_code
+,Panel,2022_public_panel_one_year_csv.csv,id_2017
+,Panel,2022_public_panel_one_year_csv.csv,respondent_rssd
+,Panel,2022_public_panel_one_year_csv.csv,respondent_name
+,Panel,2022_public_panel_one_year_csv.csv,respondent_state
+,Panel,2022_public_panel_one_year_csv.csv,respondent_city
+,Panel,2022_public_panel_one_year_csv.csv,assets
+,Panel,2022_public_panel_one_year_csv.csv,other_lender_code
+,Panel,2022_public_panel_one_year_csv.csv,parent_rssd
+,Panel,2022_public_panel_one_year_csv.csv,parent_name
+,Panel,2022_public_panel_one_year_csv.csv,topholder_rssd
+,Panel,2022_public_panel_one_year_csv.csv,topholder_name
+,LAR,2020_public_lar_one_year.csv,activity_year
+,LAR,2020_public_lar_one_year.csv,lei
+,LAR,2020_public_lar_one_year.csv,derived_msa_md
+,LAR,2020_public_lar_one_year.csv,state_code
+,LAR,2020_public_lar_one_year.csv,county_code
+,LAR,2020_public_lar_one_year.csv,census_tract
+,LAR,2020_public_lar_one_year.csv,conforming_loan_limit
+,LAR,2020_public_lar_one_year.csv,derived_loan_product_type
+,LAR,2020_public_lar_one_year.csv,derived_dwelling_category
+,LAR,2020_public_lar_one_year.csv,derived_ethnicity
+,LAR,2020_public_lar_one_year.csv,derived_race
+,LAR,2020_public_lar_one_year.csv,derived_sex
+,LAR,2020_public_lar_one_year.csv,action_taken
+,LAR,2020_public_lar_one_year.csv,purchaser_type
+,LAR,2020_public_lar_one_year.csv,preapproval
+,LAR,2020_public_lar_one_year.csv,loan_type
+,LAR,2020_public_lar_one_year.csv,loan_purpose
+,LAR,2020_public_lar_one_year.csv,lien_status
+,LAR,2020_public_lar_one_year.csv,reverse_mortgage
+,LAR,2020_public_lar_one_year.csv,open_end_line_of_credit
+,LAR,2020_public_lar_one_year.csv,business_or_commercial_purpose
+,LAR,2020_public_lar_one_year.csv,loan_amount
+,LAR,2020_public_lar_one_year.csv,combined_loan_to_value_ratio
+,LAR,2020_public_lar_one_year.csv,interest_rate
+,LAR,2020_public_lar_one_year.csv,rate_spread
+,LAR,2020_public_lar_one_year.csv,hoepa_status
+,LAR,2020_public_lar_one_year.csv,total_loan_costs
+,LAR,2020_public_lar_one_year.csv,total_points_and_fees
+,LAR,2020_public_lar_one_year.csv,origination_charges
+,LAR,2020_public_lar_one_year.csv,discount_points
+,LAR,2020_public_lar_one_year.csv,lender_credits
+,LAR,2020_public_lar_one_year.csv,loan_term
+,LAR,2020_public_lar_one_year.csv,prepayment_penalty_term
+,LAR,2020_public_lar_one_year.csv,intro_rate_period
+,LAR,2020_public_lar_one_year.csv,negative_amortization
+,LAR,2020_public_lar_one_year.csv,interest_only_payment
+,LAR,2020_public_lar_one_year.csv,balloon_payment
+,LAR,2020_public_lar_one_year.csv,other_nonamortizing_features
+,LAR,2020_public_lar_one_year.csv,property_value
+,LAR,2020_public_lar_one_year.csv,construction_method
+,LAR,2020_public_lar_one_year.csv,occupancy_type
+,LAR,2020_public_lar_one_year.csv,manufactured_home_secured_property_type
+,LAR,2020_public_lar_one_year.csv,manufactured_home_land_property_interest
+,LAR,2020_public_lar_one_year.csv,total_units
+,LAR,2020_public_lar_one_year.csv,multifamily_affordable_units
+,LAR,2020_public_lar_one_year.csv,income
+,LAR,2020_public_lar_one_year.csv,debt_to_income_ratio
+,LAR,2020_public_lar_one_year.csv,applicant_credit_score_type
+,LAR,2020_public_lar_one_year.csv,co_applicant_credit_score_type
+,LAR,2020_public_lar_one_year.csv,applicant_ethnicity_1
+,LAR,2020_public_lar_one_year.csv,applicant_ethnicity_2
+,LAR,2020_public_lar_one_year.csv,applicant_ethnicity_3
+,LAR,2020_public_lar_one_year.csv,applicant_ethnicity_4
+,LAR,2020_public_lar_one_year.csv,applicant_ethnicity_5
+,LAR,2020_public_lar_one_year.csv,co_applicant_ethnicity_1
+,LAR,2020_public_lar_one_year.csv,co_applicant_ethnicity_2
+,LAR,2020_public_lar_one_year.csv,co_applicant_ethnicity_3
+,LAR,2020_public_lar_one_year.csv,co_applicant_ethnicity_4
+,LAR,2020_public_lar_one_year.csv,co_applicant_ethnicity_5
+,LAR,2020_public_lar_one_year.csv,applicant_ethnicity_observed
+,LAR,2020_public_lar_one_year.csv,co_applicant_ethnicity_observed
+,LAR,2020_public_lar_one_year.csv,applicant_race_1
+,LAR,2020_public_lar_one_year.csv,applicant_race_2
+,LAR,2020_public_lar_one_year.csv,applicant_race_3
+,LAR,2020_public_lar_one_year.csv,applicant_race_4
+,LAR,2020_public_lar_one_year.csv,applicant_race_5
+,LAR,2020_public_lar_one_year.csv,co_applicant_race_1
+,LAR,2020_public_lar_one_year.csv,co_applicant_race_2
+,LAR,2020_public_lar_one_year.csv,co_applicant_race_3
+,LAR,2020_public_lar_one_year.csv,co_applicant_race_4
+,LAR,2020_public_lar_one_year.csv,co_applicant_race_5
+,LAR,2020_public_lar_one_year.csv,applicant_race_observed
+,LAR,2020_public_lar_one_year.csv,co_applicant_race_observed
+,LAR,2020_public_lar_one_year.csv,applicant_sex
+,LAR,2020_public_lar_one_year.csv,co_applicant_sex
+,LAR,2020_public_lar_one_year.csv,applicant_sex_observed
+,LAR,2020_public_lar_one_year.csv,co_applicant_sex_observed
+,LAR,2020_public_lar_one_year.csv,applicant_age
+,LAR,2020_public_lar_one_year.csv,co_applicant_age
+,LAR,2020_public_lar_one_year.csv,applicant_age_above_62
+,LAR,2020_public_lar_one_year.csv,co_applicant_age_above_62
+,LAR,2020_public_lar_one_year.csv,submission_of_application
+,LAR,2020_public_lar_one_year.csv,initially_payable_to_institution
+,LAR,2020_public_lar_one_year.csv,aus_1
+,LAR,2020_public_lar_one_year.csv,aus_2
+,LAR,2020_public_lar_one_year.csv,aus_3
+,LAR,2020_public_lar_one_year.csv,aus_4
+,LAR,2020_public_lar_one_year.csv,aus_5
+,LAR,2020_public_lar_one_year.csv,denial_reason_1
+,LAR,2020_public_lar_one_year.csv,denial_reason_2
+,LAR,2020_public_lar_one_year.csv,denial_reason_3
+,LAR,2020_public_lar_one_year.csv,denial_reason_4
+,LAR,2020_public_lar_one_year.csv,tract_population
+,LAR,2020_public_lar_one_year.csv,tract_minority_population_percent
+,LAR,2020_public_lar_one_year.csv,ffiec_msa_md_median_family_income
+,LAR,2020_public_lar_one_year.csv,tract_to_msa_income_percentage
+,LAR,2020_public_lar_one_year.csv,tract_owner_occupied_units
+,LAR,2020_public_lar_one_year.csv,tract_one_to_four_family_homes
+,LAR,2020_public_lar_one_year.csv,tract_median_age_of_housing_units
+,Panel,2019_public_panel_one_year_csv.csv,activity_year
+,Panel,2019_public_panel_one_year_csv.csv,lei
+,Panel,2019_public_panel_one_year_csv.csv,tax_id
+,Panel,2019_public_panel_one_year_csv.csv,agency_code
+,Panel,2019_public_panel_one_year_csv.csv,id_2017
+,Panel,2019_public_panel_one_year_csv.csv,respondent_rssd
+,Panel,2019_public_panel_one_year_csv.csv,respondent_name
+,Panel,2019_public_panel_one_year_csv.csv,respondent_state
+,Panel,2019_public_panel_one_year_csv.csv,respondent_city
+,Panel,2019_public_panel_one_year_csv.csv,assets
+,Panel,2019_public_panel_one_year_csv.csv,other_lender_code
+,Panel,2019_public_panel_one_year_csv.csv,parent_rssd
+,Panel,2019_public_panel_one_year_csv.csv,parent_name
+,Panel,2019_public_panel_one_year_csv.csv,topholder_rssd
+,Panel,2019_public_panel_one_year_csv.csv,topholder_name
+,Panel,hmda_2011_panel.csv,Activity Year
+,Panel,hmda_2011_panel.csv,Respondent ID
+,Panel,hmda_2011_panel.csv,Agency Code
+,Panel,hmda_2011_panel.csv,Parent Respondent ID
+,Panel,hmda_2011_panel.csv,Parent Name (Panel)
+,Panel,hmda_2011_panel.csv,Parent City (Panel)
+,Panel,hmda_2011_panel.csv,Parent State (Panel)
+,Panel,hmda_2011_panel.csv,Region
+,Panel,hmda_2011_panel.csv,Assets
+,Panel,hmda_2011_panel.csv,Other Lender Code
+,Panel,hmda_2011_panel.csv,Respondent Name (Panel)
+,Panel,hmda_2011_panel.csv,Respondent City (Panel)
+,Panel,hmda_2011_panel.csv,Respondent State (Panel)
+,Panel,hmda_2011_panel.csv,Top Holder RSSD ID
+,Panel,hmda_2011_panel.csv,Top Holder Name
+,Panel,hmda_2011_panel.csv,Top Holder City
+,Panel,hmda_2011_panel.csv,Top Holder State
+,Panel,hmda_2011_panel.csv,Top Holder Country
+,Panel,hmda_2011_panel.csv,Respondent RSSD ID
+,Panel,hmda_2011_panel.csv,Parent RSSD ID
+,Panel,hmda_2011_panel.csv,Respondent FIPS State Number
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,as_of_year
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,respondent_id
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_abbr
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_code
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_amount_000s
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_abbr
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_code
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_code
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,census_tract_number
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_1
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_1
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_2
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_2
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_3
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_3
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_4
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_4
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_5
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_5
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_1
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_1
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_2
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_2
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_3
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_3
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_4
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_4
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_5
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_5
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_income_000s
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_1
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_1
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_2
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_2
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_3
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_3
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,rate_spread
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status_name
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,sequence_number
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,population
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,minority_population
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hud_median_family_income
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,tract_to_msamd_income
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_owner_occupied_units
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_1_to_4_family_units
+,LAR,hmda_2011_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,application_date_indicator
+,LAR,2023_public_lar_csv.csv,activity_year
+,LAR,2023_public_lar_csv.csv,lei
+,LAR,2023_public_lar_csv.csv,derived_msa_md
+,LAR,2023_public_lar_csv.csv,state_code
+,LAR,2023_public_lar_csv.csv,county_code
+,LAR,2023_public_lar_csv.csv,census_tract
+,LAR,2023_public_lar_csv.csv,conforming_loan_limit
+,LAR,2023_public_lar_csv.csv,derived_loan_product_type
+,LAR,2023_public_lar_csv.csv,derived_dwelling_category
+,LAR,2023_public_lar_csv.csv,derived_ethnicity
+,LAR,2023_public_lar_csv.csv,derived_race
+,LAR,2023_public_lar_csv.csv,derived_sex
+,LAR,2023_public_lar_csv.csv,action_taken
+,LAR,2023_public_lar_csv.csv,purchaser_type
+,LAR,2023_public_lar_csv.csv,preapproval
+,LAR,2023_public_lar_csv.csv,loan_type
+,LAR,2023_public_lar_csv.csv,loan_purpose
+,LAR,2023_public_lar_csv.csv,lien_status
+,LAR,2023_public_lar_csv.csv,reverse_mortgage
+,LAR,2023_public_lar_csv.csv,open_end_line_of_credit
+,LAR,2023_public_lar_csv.csv,business_or_commercial_purpose
+,LAR,2023_public_lar_csv.csv,loan_amount
+,LAR,2023_public_lar_csv.csv,combined_loan_to_value_ratio
+,LAR,2023_public_lar_csv.csv,interest_rate
+,LAR,2023_public_lar_csv.csv,rate_spread
+,LAR,2023_public_lar_csv.csv,hoepa_status
+,LAR,2023_public_lar_csv.csv,total_loan_costs
+,LAR,2023_public_lar_csv.csv,total_points_and_fees
+,LAR,2023_public_lar_csv.csv,origination_charges
+,LAR,2023_public_lar_csv.csv,discount_points
+,LAR,2023_public_lar_csv.csv,lender_credits
+,LAR,2023_public_lar_csv.csv,loan_term
+,LAR,2023_public_lar_csv.csv,prepayment_penalty_term
+,LAR,2023_public_lar_csv.csv,intro_rate_period
+,LAR,2023_public_lar_csv.csv,negative_amortization
+,LAR,2023_public_lar_csv.csv,interest_only_payment
+,LAR,2023_public_lar_csv.csv,balloon_payment
+,LAR,2023_public_lar_csv.csv,other_nonamortizing_features
+,LAR,2023_public_lar_csv.csv,property_value
+,LAR,2023_public_lar_csv.csv,construction_method
+,LAR,2023_public_lar_csv.csv,occupancy_type
+,LAR,2023_public_lar_csv.csv,manufactured_home_secured_property_type
+,LAR,2023_public_lar_csv.csv,manufactured_home_land_property_interest
+,LAR,2023_public_lar_csv.csv,total_units
+,LAR,2023_public_lar_csv.csv,multifamily_affordable_units
+,LAR,2023_public_lar_csv.csv,income
+,LAR,2023_public_lar_csv.csv,debt_to_income_ratio
+,LAR,2023_public_lar_csv.csv,applicant_credit_score_type
+,LAR,2023_public_lar_csv.csv,co_applicant_credit_score_type
+,LAR,2023_public_lar_csv.csv,applicant_ethnicity_1
+,LAR,2023_public_lar_csv.csv,applicant_ethnicity_2
+,LAR,2023_public_lar_csv.csv,applicant_ethnicity_3
+,LAR,2023_public_lar_csv.csv,applicant_ethnicity_4
+,LAR,2023_public_lar_csv.csv,applicant_ethnicity_5
+,LAR,2023_public_lar_csv.csv,co_applicant_ethnicity_1
+,LAR,2023_public_lar_csv.csv,co_applicant_ethnicity_2
+,LAR,2023_public_lar_csv.csv,co_applicant_ethnicity_3
+,LAR,2023_public_lar_csv.csv,co_applicant_ethnicity_4
+,LAR,2023_public_lar_csv.csv,co_applicant_ethnicity_5
+,LAR,2023_public_lar_csv.csv,applicant_ethnicity_observed
+,LAR,2023_public_lar_csv.csv,co_applicant_ethnicity_observed
+,LAR,2023_public_lar_csv.csv,applicant_race_1
+,LAR,2023_public_lar_csv.csv,applicant_race_2
+,LAR,2023_public_lar_csv.csv,applicant_race_3
+,LAR,2023_public_lar_csv.csv,applicant_race_4
+,LAR,2023_public_lar_csv.csv,applicant_race_5
+,LAR,2023_public_lar_csv.csv,co_applicant_race_1
+,LAR,2023_public_lar_csv.csv,co_applicant_race_2
+,LAR,2023_public_lar_csv.csv,co_applicant_race_3
+,LAR,2023_public_lar_csv.csv,co_applicant_race_4
+,LAR,2023_public_lar_csv.csv,co_applicant_race_5
+,LAR,2023_public_lar_csv.csv,applicant_race_observed
+,LAR,2023_public_lar_csv.csv,co_applicant_race_observed
+,LAR,2023_public_lar_csv.csv,applicant_sex
+,LAR,2023_public_lar_csv.csv,co_applicant_sex
+,LAR,2023_public_lar_csv.csv,applicant_sex_observed
+,LAR,2023_public_lar_csv.csv,co_applicant_sex_observed
+,LAR,2023_public_lar_csv.csv,applicant_age
+,LAR,2023_public_lar_csv.csv,co_applicant_age
+,LAR,2023_public_lar_csv.csv,applicant_age_above_62
+,LAR,2023_public_lar_csv.csv,co_applicant_age_above_62
+,LAR,2023_public_lar_csv.csv,submission_of_application
+,LAR,2023_public_lar_csv.csv,initially_payable_to_institution
+,LAR,2023_public_lar_csv.csv,aus_1
+,LAR,2023_public_lar_csv.csv,aus_2
+,LAR,2023_public_lar_csv.csv,aus_3
+,LAR,2023_public_lar_csv.csv,aus_4
+,LAR,2023_public_lar_csv.csv,aus_5
+,LAR,2023_public_lar_csv.csv,denial_reason_1
+,LAR,2023_public_lar_csv.csv,denial_reason_2
+,LAR,2023_public_lar_csv.csv,denial_reason_3
+,LAR,2023_public_lar_csv.csv,denial_reason_4
+,LAR,2023_public_lar_csv.csv,tract_population
+,LAR,2023_public_lar_csv.csv,tract_minority_population_percent
+,LAR,2023_public_lar_csv.csv,ffiec_msa_md_median_family_income
+,LAR,2023_public_lar_csv.csv,tract_to_msa_income_percentage
+,LAR,2023_public_lar_csv.csv,tract_owner_occupied_units
+,LAR,2023_public_lar_csv.csv,tract_one_to_four_family_homes
+,LAR,2023_public_lar_csv.csv,tract_median_age_of_housing_units
+,TS,hmda_2012_transmittal_sheet.csv,Activity Year
+,TS,hmda_2012_transmittal_sheet.csv,Respondent ID
+,TS,hmda_2012_transmittal_sheet.csv,Agency Code
+,TS,hmda_2012_transmittal_sheet.csv,Federal Tax ID
+,TS,hmda_2012_transmittal_sheet.csv,Respondent Name
+,TS,hmda_2012_transmittal_sheet.csv,Respondent Mailing Address
+,TS,hmda_2012_transmittal_sheet.csv,Respondent City
+,TS,hmda_2012_transmittal_sheet.csv,Respondent State
+,TS,hmda_2012_transmittal_sheet.csv,Respondent ZIP Code
+,TS,hmda_2012_transmittal_sheet.csv,Parent Name
+,TS,hmda_2012_transmittal_sheet.csv,Parent Address
+,TS,hmda_2012_transmittal_sheet.csv,Parent City
+,TS,hmda_2012_transmittal_sheet.csv,Parent State
+,TS,hmda_2012_transmittal_sheet.csv,Parent ZIP Code
+,TS,hmda_2012_transmittal_sheet.csv,Respondent Name (Panel)
+,TS,hmda_2012_transmittal_sheet.csv,Respondent City (Panel)
+,TS,hmda_2012_transmittal_sheet.csv,Respondent State (Panel)
+,TS,hmda_2012_transmittal_sheet.csv,Assets
+,TS,hmda_2012_transmittal_sheet.csv,Other Lender Code
+,TS,hmda_2012_transmittal_sheet.csv,Region Code
+,TS,hmda_2012_transmittal_sheet.csv,LAR Count
+,TS,hmda_2012_transmittal_sheet.csv,Validity Error
+,TS,2023_public_ts_csv.csv,activity_year
+,TS,2023_public_ts_csv.csv,calendar_quarter
+,TS,2023_public_ts_csv.csv,lei
+,TS,2023_public_ts_csv.csv,tax_id
+,TS,2023_public_ts_csv.csv,agency_code
+,TS,2023_public_ts_csv.csv,respondent_name
+,TS,2023_public_ts_csv.csv,respondent_state
+,TS,2023_public_ts_csv.csv,respondent_city
+,TS,2023_public_ts_csv.csv,respondent_zip_code
+,TS,2023_public_ts_csv.csv,lar_count
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,as_of_year
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,respondent_id
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_abbr
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_code
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_amount_000s
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_abbr
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_code
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_code
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,census_tract_number
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_1
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_1
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_2
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_2
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_3
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_3
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_4
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_4
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_5
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_5
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_1
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_1
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_2
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_2
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_3
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_3
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_4
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_4
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_5
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_5
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_income_000s
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_1
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_1
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_2
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_2
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_3
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_3
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,rate_spread
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status_name
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,sequence_number
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,population
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,minority_population
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hud_median_family_income
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,tract_to_msamd_income
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_owner_occupied_units
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_1_to_4_family_units
+,LAR,hmda_2015_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,application_date_indicator
+,Panel,2018_public_panel_three_year_csv.csv,activity_year
+,Panel,2018_public_panel_three_year_csv.csv,lei
+,Panel,2018_public_panel_three_year_csv.csv,tax_id
+,Panel,2018_public_panel_three_year_csv.csv,agency_code
+,Panel,2018_public_panel_three_year_csv.csv,id_2017
+,Panel,2018_public_panel_three_year_csv.csv,respondent_rssd
+,Panel,2018_public_panel_three_year_csv.csv,respondent_name
+,Panel,2018_public_panel_three_year_csv.csv,respondent_state
+,Panel,2018_public_panel_three_year_csv.csv,respondent_city
+,Panel,2018_public_panel_three_year_csv.csv,assets
+,Panel,2018_public_panel_three_year_csv.csv,other_lender_code
+,Panel,2018_public_panel_three_year_csv.csv,parent_rssd
+,Panel,2018_public_panel_three_year_csv.csv,parent_name
+,Panel,2018_public_panel_three_year_csv.csv,topholder_rssd
+,Panel,2018_public_panel_three_year_csv.csv,topholder_name
+,Panel,hmda_2017_panel.csv,Activity Year
+,Panel,hmda_2017_panel.csv,Respondent ID
+,Panel,hmda_2017_panel.csv,Agency Code
+,Panel,hmda_2017_panel.csv,Parent Respondent ID
+,Panel,hmda_2017_panel.csv,Parent Name (Panel)
+,Panel,hmda_2017_panel.csv,Parent City (Panel)
+,Panel,hmda_2017_panel.csv,Parent State (Panel)
+,Panel,hmda_2017_panel.csv,Region
+,Panel,hmda_2017_panel.csv,Assets
+,Panel,hmda_2017_panel.csv,Other Lender Code
+,Panel,hmda_2017_panel.csv,Respondent Name (Panel)
+,Panel,hmda_2017_panel.csv,Respondent City (Panel)
+,Panel,hmda_2017_panel.csv,Respondent State (Panel)
+,Panel,hmda_2017_panel.csv,Top Holder RSSD ID
+,Panel,hmda_2017_panel.csv,Top Holder Name
+,Panel,hmda_2017_panel.csv,Top Holder City
+,Panel,hmda_2017_panel.csv,Top Holder State
+,Panel,hmda_2017_panel.csv,Top Holder Country
+,Panel,hmda_2017_panel.csv,Respondent RSSD ID
+,Panel,hmda_2017_panel.csv,Parent RSSD ID
+,Panel,hmda_2017_panel.csv,Respondent FIPS State Number
+,TS,2018_public_ts_three_year.csv,activity_year
+,TS,2018_public_ts_three_year.csv,calendar_quarter
+,TS,2018_public_ts_three_year.csv,lei
+,TS,2018_public_ts_three_year.csv,tax_id
+,TS,2018_public_ts_three_year.csv,agency_code
+,TS,2018_public_ts_three_year.csv,respondent_name
+,TS,2018_public_ts_three_year.csv,respondent_state
+,TS,2018_public_ts_three_year.csv,respondent_city
+,TS,2018_public_ts_three_year.csv,respondent_zip_code
+,TS,2018_public_ts_three_year.csv,lar_count
+,LAR,2021_public_lar_one_year_csv.csv,activity_year
+,LAR,2021_public_lar_one_year_csv.csv,lei
+,LAR,2021_public_lar_one_year_csv.csv,derived_msa_md
+,LAR,2021_public_lar_one_year_csv.csv,state_code
+,LAR,2021_public_lar_one_year_csv.csv,county_code
+,LAR,2021_public_lar_one_year_csv.csv,census_tract
+,LAR,2021_public_lar_one_year_csv.csv,conforming_loan_limit
+,LAR,2021_public_lar_one_year_csv.csv,derived_loan_product_type
+,LAR,2021_public_lar_one_year_csv.csv,derived_dwelling_category
+,LAR,2021_public_lar_one_year_csv.csv,derived_ethnicity
+,LAR,2021_public_lar_one_year_csv.csv,derived_race
+,LAR,2021_public_lar_one_year_csv.csv,derived_sex
+,LAR,2021_public_lar_one_year_csv.csv,action_taken
+,LAR,2021_public_lar_one_year_csv.csv,purchaser_type
+,LAR,2021_public_lar_one_year_csv.csv,preapproval
+,LAR,2021_public_lar_one_year_csv.csv,loan_type
+,LAR,2021_public_lar_one_year_csv.csv,loan_purpose
+,LAR,2021_public_lar_one_year_csv.csv,lien_status
+,LAR,2021_public_lar_one_year_csv.csv,reverse_mortgage
+,LAR,2021_public_lar_one_year_csv.csv,open_end_line_of_credit
+,LAR,2021_public_lar_one_year_csv.csv,business_or_commercial_purpose
+,LAR,2021_public_lar_one_year_csv.csv,loan_amount
+,LAR,2021_public_lar_one_year_csv.csv,combined_loan_to_value_ratio
+,LAR,2021_public_lar_one_year_csv.csv,interest_rate
+,LAR,2021_public_lar_one_year_csv.csv,rate_spread
+,LAR,2021_public_lar_one_year_csv.csv,hoepa_status
+,LAR,2021_public_lar_one_year_csv.csv,total_loan_costs
+,LAR,2021_public_lar_one_year_csv.csv,total_points_and_fees
+,LAR,2021_public_lar_one_year_csv.csv,origination_charges
+,LAR,2021_public_lar_one_year_csv.csv,discount_points
+,LAR,2021_public_lar_one_year_csv.csv,lender_credits
+,LAR,2021_public_lar_one_year_csv.csv,loan_term
+,LAR,2021_public_lar_one_year_csv.csv,prepayment_penalty_term
+,LAR,2021_public_lar_one_year_csv.csv,intro_rate_period
+,LAR,2021_public_lar_one_year_csv.csv,negative_amortization
+,LAR,2021_public_lar_one_year_csv.csv,interest_only_payment
+,LAR,2021_public_lar_one_year_csv.csv,balloon_payment
+,LAR,2021_public_lar_one_year_csv.csv,other_nonamortizing_features
+,LAR,2021_public_lar_one_year_csv.csv,property_value
+,LAR,2021_public_lar_one_year_csv.csv,construction_method
+,LAR,2021_public_lar_one_year_csv.csv,occupancy_type
+,LAR,2021_public_lar_one_year_csv.csv,manufactured_home_secured_property_type
+,LAR,2021_public_lar_one_year_csv.csv,manufactured_home_land_property_interest
+,LAR,2021_public_lar_one_year_csv.csv,total_units
+,LAR,2021_public_lar_one_year_csv.csv,multifamily_affordable_units
+,LAR,2021_public_lar_one_year_csv.csv,income
+,LAR,2021_public_lar_one_year_csv.csv,debt_to_income_ratio
+,LAR,2021_public_lar_one_year_csv.csv,applicant_credit_score_type
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_credit_score_type
+,LAR,2021_public_lar_one_year_csv.csv,applicant_ethnicity_1
+,LAR,2021_public_lar_one_year_csv.csv,applicant_ethnicity_2
+,LAR,2021_public_lar_one_year_csv.csv,applicant_ethnicity_3
+,LAR,2021_public_lar_one_year_csv.csv,applicant_ethnicity_4
+,LAR,2021_public_lar_one_year_csv.csv,applicant_ethnicity_5
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_ethnicity_1
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_ethnicity_2
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_ethnicity_3
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_ethnicity_4
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_ethnicity_5
+,LAR,2021_public_lar_one_year_csv.csv,applicant_ethnicity_observed
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_ethnicity_observed
+,LAR,2021_public_lar_one_year_csv.csv,applicant_race_1
+,LAR,2021_public_lar_one_year_csv.csv,applicant_race_2
+,LAR,2021_public_lar_one_year_csv.csv,applicant_race_3
+,LAR,2021_public_lar_one_year_csv.csv,applicant_race_4
+,LAR,2021_public_lar_one_year_csv.csv,applicant_race_5
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_race_1
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_race_2
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_race_3
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_race_4
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_race_5
+,LAR,2021_public_lar_one_year_csv.csv,applicant_race_observed
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_race_observed
+,LAR,2021_public_lar_one_year_csv.csv,applicant_sex
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_sex
+,LAR,2021_public_lar_one_year_csv.csv,applicant_sex_observed
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_sex_observed
+,LAR,2021_public_lar_one_year_csv.csv,applicant_age
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_age
+,LAR,2021_public_lar_one_year_csv.csv,applicant_age_above_62
+,LAR,2021_public_lar_one_year_csv.csv,co_applicant_age_above_62
+,LAR,2021_public_lar_one_year_csv.csv,submission_of_application
+,LAR,2021_public_lar_one_year_csv.csv,initially_payable_to_institution
+,LAR,2021_public_lar_one_year_csv.csv,aus_1
+,LAR,2021_public_lar_one_year_csv.csv,aus_2
+,LAR,2021_public_lar_one_year_csv.csv,aus_3
+,LAR,2021_public_lar_one_year_csv.csv,aus_4
+,LAR,2021_public_lar_one_year_csv.csv,aus_5
+,LAR,2021_public_lar_one_year_csv.csv,denial_reason_1
+,LAR,2021_public_lar_one_year_csv.csv,denial_reason_2
+,LAR,2021_public_lar_one_year_csv.csv,denial_reason_3
+,LAR,2021_public_lar_one_year_csv.csv,denial_reason_4
+,LAR,2021_public_lar_one_year_csv.csv,tract_population
+,LAR,2021_public_lar_one_year_csv.csv,tract_minority_population_percent
+,LAR,2021_public_lar_one_year_csv.csv,ffiec_msa_md_median_family_income
+,LAR,2021_public_lar_one_year_csv.csv,tract_to_msa_income_percentage
+,LAR,2021_public_lar_one_year_csv.csv,tract_owner_occupied_units
+,LAR,2021_public_lar_one_year_csv.csv,tract_one_to_four_family_homes
+,LAR,2021_public_lar_one_year_csv.csv,tract_median_age_of_housing_units
+,LAR,2018_public__lar_three_year.csv,activity_year
+,LAR,2018_public__lar_three_year.csv,lei
+,LAR,2018_public__lar_three_year.csv,derived_msa_md
+,LAR,2018_public__lar_three_year.csv,state_code
+,LAR,2018_public__lar_three_year.csv,county_code
+,LAR,2018_public__lar_three_year.csv,census_tract
+,LAR,2018_public__lar_three_year.csv,conforming_loan_limit
+,LAR,2018_public__lar_three_year.csv,derived_loan_product_type
+,LAR,2018_public__lar_three_year.csv,derived_dwelling_category
+,LAR,2018_public__lar_three_year.csv,derived_ethnicity
+,LAR,2018_public__lar_three_year.csv,derived_race
+,LAR,2018_public__lar_three_year.csv,derived_sex
+,LAR,2018_public__lar_three_year.csv,action_taken
+,LAR,2018_public__lar_three_year.csv,purchaser_type
+,LAR,2018_public__lar_three_year.csv,preapproval
+,LAR,2018_public__lar_three_year.csv,loan_type
+,LAR,2018_public__lar_three_year.csv,loan_purpose
+,LAR,2018_public__lar_three_year.csv,lien_status
+,LAR,2018_public__lar_three_year.csv,reverse_mortgage
+,LAR,2018_public__lar_three_year.csv,open_end_line_of_credit
+,LAR,2018_public__lar_three_year.csv,business_or_commercial_purpose
+,LAR,2018_public__lar_three_year.csv,loan_amount
+,LAR,2018_public__lar_three_year.csv,combined_loan_to_value_ratio
+,LAR,2018_public__lar_three_year.csv,interest_rate
+,LAR,2018_public__lar_three_year.csv,rate_spread
+,LAR,2018_public__lar_three_year.csv,hoepa_status
+,LAR,2018_public__lar_three_year.csv,total_loan_costs
+,LAR,2018_public__lar_three_year.csv,total_points_and_fees
+,LAR,2018_public__lar_three_year.csv,origination_charges
+,LAR,2018_public__lar_three_year.csv,discount_points
+,LAR,2018_public__lar_three_year.csv,lender_credits
+,LAR,2018_public__lar_three_year.csv,loan_term
+,LAR,2018_public__lar_three_year.csv,prepayment_penalty_term
+,LAR,2018_public__lar_three_year.csv,intro_rate_period
+,LAR,2018_public__lar_three_year.csv,negative_amortization
+,LAR,2018_public__lar_three_year.csv,interest_only_payment
+,LAR,2018_public__lar_three_year.csv,balloon_payment
+,LAR,2018_public__lar_three_year.csv,other_nonamortizing_features
+,LAR,2018_public__lar_three_year.csv,property_value
+,LAR,2018_public__lar_three_year.csv,construction_method
+,LAR,2018_public__lar_three_year.csv,occupancy_type
+,LAR,2018_public__lar_three_year.csv,manufactured_home_secured_property_type
+,LAR,2018_public__lar_three_year.csv,manufactured_home_land_property_interest
+,LAR,2018_public__lar_three_year.csv,total_units
+,LAR,2018_public__lar_three_year.csv,multifamily_affordable_units
+,LAR,2018_public__lar_three_year.csv,income
+,LAR,2018_public__lar_three_year.csv,debt_to_income_ratio
+,LAR,2018_public__lar_three_year.csv,applicant_credit_score_type
+,LAR,2018_public__lar_three_year.csv,co_applicant_credit_score_type
+,LAR,2018_public__lar_three_year.csv,applicant_ethnicity_1
+,LAR,2018_public__lar_three_year.csv,applicant_ethnicity_2
+,LAR,2018_public__lar_three_year.csv,applicant_ethnicity_3
+,LAR,2018_public__lar_three_year.csv,applicant_ethnicity_4
+,LAR,2018_public__lar_three_year.csv,applicant_ethnicity_5
+,LAR,2018_public__lar_three_year.csv,co_applicant_ethnicity_1
+,LAR,2018_public__lar_three_year.csv,co_applicant_ethnicity_2
+,LAR,2018_public__lar_three_year.csv,co_applicant_ethnicity_3
+,LAR,2018_public__lar_three_year.csv,co_applicant_ethnicity_4
+,LAR,2018_public__lar_three_year.csv,co_applicant_ethnicity_5
+,LAR,2018_public__lar_three_year.csv,applicant_ethnicity_observed
+,LAR,2018_public__lar_three_year.csv,co_applicant_ethnicity_observed
+,LAR,2018_public__lar_three_year.csv,applicant_race_1
+,LAR,2018_public__lar_three_year.csv,applicant_race_2
+,LAR,2018_public__lar_three_year.csv,applicant_race_3
+,LAR,2018_public__lar_three_year.csv,applicant_race_4
+,LAR,2018_public__lar_three_year.csv,applicant_race_5
+,LAR,2018_public__lar_three_year.csv,co_applicant_race_1
+,LAR,2018_public__lar_three_year.csv,co_applicant_race_2
+,LAR,2018_public__lar_three_year.csv,co_applicant_race_3
+,LAR,2018_public__lar_three_year.csv,co_applicant_race_4
+,LAR,2018_public__lar_three_year.csv,co_applicant_race_5
+,LAR,2018_public__lar_three_year.csv,applicant_race_observed
+,LAR,2018_public__lar_three_year.csv,co_applicant_race_observed
+,LAR,2018_public__lar_three_year.csv,applicant_sex
+,LAR,2018_public__lar_three_year.csv,co_applicant_sex
+,LAR,2018_public__lar_three_year.csv,applicant_sex_observed
+,LAR,2018_public__lar_three_year.csv,co_applicant_sex_observed
+,LAR,2018_public__lar_three_year.csv,applicant_age
+,LAR,2018_public__lar_three_year.csv,co_applicant_age
+,LAR,2018_public__lar_three_year.csv,applicant_age_above_62
+,LAR,2018_public__lar_three_year.csv,co_applicant_age_above_62
+,LAR,2018_public__lar_three_year.csv,submission_of_application
+,LAR,2018_public__lar_three_year.csv,initially_payable_to_institution
+,LAR,2018_public__lar_three_year.csv,aus_1
+,LAR,2018_public__lar_three_year.csv,aus_2
+,LAR,2018_public__lar_three_year.csv,aus_3
+,LAR,2018_public__lar_three_year.csv,aus_4
+,LAR,2018_public__lar_three_year.csv,aus_5
+,LAR,2018_public__lar_three_year.csv,denial_reason_1
+,LAR,2018_public__lar_three_year.csv,denial_reason_2
+,LAR,2018_public__lar_three_year.csv,denial_reason_3
+,LAR,2018_public__lar_three_year.csv,denial_reason_4
+,LAR,2018_public__lar_three_year.csv,tract_population
+,LAR,2018_public__lar_three_year.csv,tract_minority_population_percent
+,LAR,2018_public__lar_three_year.csv,ffiec_msa_md_median_family_income
+,LAR,2018_public__lar_three_year.csv,tract_to_msa_income_percentage
+,LAR,2018_public__lar_three_year.csv,tract_owner_occupied_units
+,LAR,2018_public__lar_three_year.csv,tract_one_to_four_family_homes
+,LAR,2018_public__lar_three_year.csv,tract_median_age_of_housing_units
+,TS,2022_public_ts_one_year_csv.csv,activity_year
+,TS,2022_public_ts_one_year_csv.csv,calendar_quarter
+,TS,2022_public_ts_one_year_csv.csv,lei
+,TS,2022_public_ts_one_year_csv.csv,tax_id
+,TS,2022_public_ts_one_year_csv.csv,agency_code
+,TS,2022_public_ts_one_year_csv.csv,respondent_name
+,TS,2022_public_ts_one_year_csv.csv,respondent_state
+,TS,2022_public_ts_one_year_csv.csv,respondent_city
+,TS,2022_public_ts_one_year_csv.csv,respondent_zip_code
+,TS,2022_public_ts_one_year_csv.csv,lar_count
+,Panel,hmda_2012_panel.csv,Activity Year
+,Panel,hmda_2012_panel.csv,Respondent ID
+,Panel,hmda_2012_panel.csv,Agency Code
+,Panel,hmda_2012_panel.csv,Parent Respondent ID
+,Panel,hmda_2012_panel.csv,Parent Name (Panel)
+,Panel,hmda_2012_panel.csv,Parent City (Panel)
+,Panel,hmda_2012_panel.csv,Parent State (Panel)
+,Panel,hmda_2012_panel.csv,Region
+,Panel,hmda_2012_panel.csv,Assets
+,Panel,hmda_2012_panel.csv,Other Lender Code
+,Panel,hmda_2012_panel.csv,Respondent Name (Panel)
+,Panel,hmda_2012_panel.csv,Respondent City (Panel)
+,Panel,hmda_2012_panel.csv,Respondent State (Panel)
+,Panel,hmda_2012_panel.csv,Top Holder RSSD ID
+,Panel,hmda_2012_panel.csv,Top Holder Name
+,Panel,hmda_2012_panel.csv,Top Holder City
+,Panel,hmda_2012_panel.csv,Top Holder State
+,Panel,hmda_2012_panel.csv,Top Holder Country
+,Panel,hmda_2012_panel.csv,Respondent RSSD ID
+,Panel,hmda_2012_panel.csv,Parent RSSD ID
+,Panel,hmda_2012_panel.csv,Respondent FIPS State Number
+,TS,hmda_2017_transmittal_sheet.csv,Activity Year
+,TS,hmda_2017_transmittal_sheet.csv,Respondent ID
+,TS,hmda_2017_transmittal_sheet.csv,Agency Code
+,TS,hmda_2017_transmittal_sheet.csv,Federal Tax ID
+,TS,hmda_2017_transmittal_sheet.csv,Respondent Name
+,TS,hmda_2017_transmittal_sheet.csv,Respondent Mailing Address
+,TS,hmda_2017_transmittal_sheet.csv,Respondent City
+,TS,hmda_2017_transmittal_sheet.csv,Respondent State
+,TS,hmda_2017_transmittal_sheet.csv,Respondent ZIP Code
+,TS,hmda_2017_transmittal_sheet.csv,Parent Name
+,TS,hmda_2017_transmittal_sheet.csv,Parent Address
+,TS,hmda_2017_transmittal_sheet.csv,Parent City
+,TS,hmda_2017_transmittal_sheet.csv,Parent State
+,TS,hmda_2017_transmittal_sheet.csv,Parent ZIP Code
+,TS,hmda_2017_transmittal_sheet.csv,LAR Count
+,Panel,2020_public_panel_one_year_csv.csv,activity_year
+,Panel,2020_public_panel_one_year_csv.csv,lei
+,Panel,2020_public_panel_one_year_csv.csv,tax_id
+,Panel,2020_public_panel_one_year_csv.csv,agency_code
+,Panel,2020_public_panel_one_year_csv.csv,id_2017
+,Panel,2020_public_panel_one_year_csv.csv,respondent_rssd
+,Panel,2020_public_panel_one_year_csv.csv,respondent_name
+,Panel,2020_public_panel_one_year_csv.csv,respondent_state
+,Panel,2020_public_panel_one_year_csv.csv,respondent_city
+,Panel,2020_public_panel_one_year_csv.csv,assets
+,Panel,2020_public_panel_one_year_csv.csv,other_lender_code
+,Panel,2020_public_panel_one_year_csv.csv,parent_rssd
+,Panel,2020_public_panel_one_year_csv.csv,parent_name
+,Panel,2020_public_panel_one_year_csv.csv,topholder_rssd
+,Panel,2020_public_panel_one_year_csv.csv,topholder_name
+,LAR,2022_public_lar_one_year_csv.csv,activity_year
+,LAR,2022_public_lar_one_year_csv.csv,lei
+,LAR,2022_public_lar_one_year_csv.csv,derived_msa_md
+,LAR,2022_public_lar_one_year_csv.csv,state_code
+,LAR,2022_public_lar_one_year_csv.csv,county_code
+,LAR,2022_public_lar_one_year_csv.csv,census_tract
+,LAR,2022_public_lar_one_year_csv.csv,conforming_loan_limit
+,LAR,2022_public_lar_one_year_csv.csv,derived_loan_product_type
+,LAR,2022_public_lar_one_year_csv.csv,derived_dwelling_category
+,LAR,2022_public_lar_one_year_csv.csv,derived_ethnicity
+,LAR,2022_public_lar_one_year_csv.csv,derived_race
+,LAR,2022_public_lar_one_year_csv.csv,derived_sex
+,LAR,2022_public_lar_one_year_csv.csv,action_taken
+,LAR,2022_public_lar_one_year_csv.csv,purchaser_type
+,LAR,2022_public_lar_one_year_csv.csv,preapproval
+,LAR,2022_public_lar_one_year_csv.csv,loan_type
+,LAR,2022_public_lar_one_year_csv.csv,loan_purpose
+,LAR,2022_public_lar_one_year_csv.csv,lien_status
+,LAR,2022_public_lar_one_year_csv.csv,reverse_mortgage
+,LAR,2022_public_lar_one_year_csv.csv,open_end_line_of_credit
+,LAR,2022_public_lar_one_year_csv.csv,business_or_commercial_purpose
+,LAR,2022_public_lar_one_year_csv.csv,loan_amount
+,LAR,2022_public_lar_one_year_csv.csv,combined_loan_to_value_ratio
+,LAR,2022_public_lar_one_year_csv.csv,interest_rate
+,LAR,2022_public_lar_one_year_csv.csv,rate_spread
+,LAR,2022_public_lar_one_year_csv.csv,hoepa_status
+,LAR,2022_public_lar_one_year_csv.csv,total_loan_costs
+,LAR,2022_public_lar_one_year_csv.csv,total_points_and_fees
+,LAR,2022_public_lar_one_year_csv.csv,origination_charges
+,LAR,2022_public_lar_one_year_csv.csv,discount_points
+,LAR,2022_public_lar_one_year_csv.csv,lender_credits
+,LAR,2022_public_lar_one_year_csv.csv,loan_term
+,LAR,2022_public_lar_one_year_csv.csv,prepayment_penalty_term
+,LAR,2022_public_lar_one_year_csv.csv,intro_rate_period
+,LAR,2022_public_lar_one_year_csv.csv,negative_amortization
+,LAR,2022_public_lar_one_year_csv.csv,interest_only_payment
+,LAR,2022_public_lar_one_year_csv.csv,balloon_payment
+,LAR,2022_public_lar_one_year_csv.csv,other_nonamortizing_features
+,LAR,2022_public_lar_one_year_csv.csv,property_value
+,LAR,2022_public_lar_one_year_csv.csv,construction_method
+,LAR,2022_public_lar_one_year_csv.csv,occupancy_type
+,LAR,2022_public_lar_one_year_csv.csv,manufactured_home_secured_property_type
+,LAR,2022_public_lar_one_year_csv.csv,manufactured_home_land_property_interest
+,LAR,2022_public_lar_one_year_csv.csv,total_units
+,LAR,2022_public_lar_one_year_csv.csv,multifamily_affordable_units
+,LAR,2022_public_lar_one_year_csv.csv,income
+,LAR,2022_public_lar_one_year_csv.csv,debt_to_income_ratio
+,LAR,2022_public_lar_one_year_csv.csv,applicant_credit_score_type
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_credit_score_type
+,LAR,2022_public_lar_one_year_csv.csv,applicant_ethnicity_1
+,LAR,2022_public_lar_one_year_csv.csv,applicant_ethnicity_2
+,LAR,2022_public_lar_one_year_csv.csv,applicant_ethnicity_3
+,LAR,2022_public_lar_one_year_csv.csv,applicant_ethnicity_4
+,LAR,2022_public_lar_one_year_csv.csv,applicant_ethnicity_5
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_ethnicity_1
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_ethnicity_2
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_ethnicity_3
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_ethnicity_4
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_ethnicity_5
+,LAR,2022_public_lar_one_year_csv.csv,applicant_ethnicity_observed
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_ethnicity_observed
+,LAR,2022_public_lar_one_year_csv.csv,applicant_race_1
+,LAR,2022_public_lar_one_year_csv.csv,applicant_race_2
+,LAR,2022_public_lar_one_year_csv.csv,applicant_race_3
+,LAR,2022_public_lar_one_year_csv.csv,applicant_race_4
+,LAR,2022_public_lar_one_year_csv.csv,applicant_race_5
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_race_1
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_race_2
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_race_3
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_race_4
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_race_5
+,LAR,2022_public_lar_one_year_csv.csv,applicant_race_observed
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_race_observed
+,LAR,2022_public_lar_one_year_csv.csv,applicant_sex
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_sex
+,LAR,2022_public_lar_one_year_csv.csv,applicant_sex_observed
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_sex_observed
+,LAR,2022_public_lar_one_year_csv.csv,applicant_age
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_age
+,LAR,2022_public_lar_one_year_csv.csv,applicant_age_above_62
+,LAR,2022_public_lar_one_year_csv.csv,co_applicant_age_above_62
+,LAR,2022_public_lar_one_year_csv.csv,submission_of_application
+,LAR,2022_public_lar_one_year_csv.csv,initially_payable_to_institution
+,LAR,2022_public_lar_one_year_csv.csv,aus_1
+,LAR,2022_public_lar_one_year_csv.csv,aus_2
+,LAR,2022_public_lar_one_year_csv.csv,aus_3
+,LAR,2022_public_lar_one_year_csv.csv,aus_4
+,LAR,2022_public_lar_one_year_csv.csv,aus_5
+,LAR,2022_public_lar_one_year_csv.csv,denial_reason_1
+,LAR,2022_public_lar_one_year_csv.csv,denial_reason_2
+,LAR,2022_public_lar_one_year_csv.csv,denial_reason_3
+,LAR,2022_public_lar_one_year_csv.csv,denial_reason_4
+,LAR,2022_public_lar_one_year_csv.csv,tract_population
+,LAR,2022_public_lar_one_year_csv.csv,tract_minority_population_percent
+,LAR,2022_public_lar_one_year_csv.csv,ffiec_msa_md_median_family_income
+,LAR,2022_public_lar_one_year_csv.csv,tract_to_msa_income_percentage
+,LAR,2022_public_lar_one_year_csv.csv,tract_owner_occupied_units
+,LAR,2022_public_lar_one_year_csv.csv,tract_one_to_four_family_homes
+,LAR,2022_public_lar_one_year_csv.csv,tract_median_age_of_housing_units
+,TS,hmda_2015_transmittal_sheet.csv,Activity Year
+,TS,hmda_2015_transmittal_sheet.csv,Respondent ID
+,TS,hmda_2015_transmittal_sheet.csv,Agency Code
+,TS,hmda_2015_transmittal_sheet.csv,Federal Tax ID
+,TS,hmda_2015_transmittal_sheet.csv,Respondent Name
+,TS,hmda_2015_transmittal_sheet.csv,Respondent Mailing Address
+,TS,hmda_2015_transmittal_sheet.csv,Respondent City
+,TS,hmda_2015_transmittal_sheet.csv,Respondent State
+,TS,hmda_2015_transmittal_sheet.csv,Respondent ZIP Code
+,TS,hmda_2015_transmittal_sheet.csv,Parent Name
+,TS,hmda_2015_transmittal_sheet.csv,Parent Address
+,TS,hmda_2015_transmittal_sheet.csv,Parent City
+,TS,hmda_2015_transmittal_sheet.csv,Parent State
+,TS,hmda_2015_transmittal_sheet.csv,Parent ZIP Code
+,TS,hmda_2015_transmittal_sheet.csv,Respondent Name (Panel)
+,TS,hmda_2015_transmittal_sheet.csv,Respondent City (Panel)
+,TS,hmda_2015_transmittal_sheet.csv,Respondent State (Panel)
+,TS,hmda_2015_transmittal_sheet.csv,Assets
+,TS,hmda_2015_transmittal_sheet.csv,Other Lender Code
+,TS,hmda_2015_transmittal_sheet.csv,Region Code
+,TS,hmda_2015_transmittal_sheet.csv,LAR Count
+,TS,hmda_2015_transmittal_sheet.csv,Validity Error
+,Panel,hmda_2014_panel.csv,Activity Year
+,Panel,hmda_2014_panel.csv,Respondent ID
+,Panel,hmda_2014_panel.csv,Agency Code
+,Panel,hmda_2014_panel.csv,Parent Respondent ID
+,Panel,hmda_2014_panel.csv,Parent Name (Panel)
+,Panel,hmda_2014_panel.csv,Parent City (Panel)
+,Panel,hmda_2014_panel.csv,Parent State (Panel)
+,Panel,hmda_2014_panel.csv,Region
+,Panel,hmda_2014_panel.csv,Assets
+,Panel,hmda_2014_panel.csv,Other Lender Code
+,Panel,hmda_2014_panel.csv,Respondent Name (Panel)
+,Panel,hmda_2014_panel.csv,Respondent City (Panel)
+,Panel,hmda_2014_panel.csv,Respondent State (Panel)
+,Panel,hmda_2014_panel.csv,Top Holder RSSD ID
+,Panel,hmda_2014_panel.csv,Top Holder Name
+,Panel,hmda_2014_panel.csv,Top Holder City
+,Panel,hmda_2014_panel.csv,Top Holder State
+,Panel,hmda_2014_panel.csv,Top Holder Country
+,Panel,hmda_2014_panel.csv,Respondent RSSD ID
+,Panel,hmda_2014_panel.csv,Parent RSSD ID
+,Panel,hmda_2014_panel.csv,Respondent FIPS State Number
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,as_of_year
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,respondent_id
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_abbr
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_code
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_amount_000s
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_abbr
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_code
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_code
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,census_tract_number
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_1
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_1
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_2
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_2
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_3
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_3
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_4
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_4
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_5
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_5
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_1
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_1
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_2
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_2
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_3
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_3
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_4
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_4
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_5
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_5
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_income_000s
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_1
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_1
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_2
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_2
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_3
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_3
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,rate_spread
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status_name
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,sequence_number
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,population
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,minority_population
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hud_median_family_income
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,tract_to_msamd_income
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_owner_occupied_units
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_1_to_4_family_units
+,LAR,hmda_2014_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,application_date_indicator
+,TS,2020_public_ts_one_year.csv,activity_year
+,TS,2020_public_ts_one_year.csv,calendar_quarter
+,TS,2020_public_ts_one_year.csv,lei
+,TS,2020_public_ts_one_year.csv,tax_id
+,TS,2020_public_ts_one_year.csv,agency_code
+,TS,2020_public_ts_one_year.csv,respondent_name
+,TS,2020_public_ts_one_year.csv,respondent_state
+,TS,2020_public_ts_one_year.csv,respondent_city
+,TS,2020_public_ts_one_year.csv,respondent_zip_code
+,TS,2020_public_ts_one_year.csv,lar_count
+,TS,2019_public_ts_one_year.csv,activity_year
+,TS,2019_public_ts_one_year.csv,calendar_quarter
+,TS,2019_public_ts_one_year.csv,lei
+,TS,2019_public_ts_one_year.csv,tax_id
+,TS,2019_public_ts_one_year.csv,agency_code
+,TS,2019_public_ts_one_year.csv,respondent_name
+,TS,2019_public_ts_one_year.csv,respondent_state
+,TS,2019_public_ts_one_year.csv,respondent_city
+,TS,2019_public_ts_one_year.csv,respondent_zip_code
+,TS,2019_public_ts_one_year.csv,lar_count
+,Panel,hmda_2013_panel.csv,Activity Year
+,Panel,hmda_2013_panel.csv,Respondent ID
+,Panel,hmda_2013_panel.csv,Agency Code
+,Panel,hmda_2013_panel.csv,Parent Respondent ID
+,Panel,hmda_2013_panel.csv,Parent Name (Panel)
+,Panel,hmda_2013_panel.csv,Parent City (Panel)
+,Panel,hmda_2013_panel.csv,Parent State (Panel)
+,Panel,hmda_2013_panel.csv,Region
+,Panel,hmda_2013_panel.csv,Assets
+,Panel,hmda_2013_panel.csv,Other Lender Code
+,Panel,hmda_2013_panel.csv,Respondent Name (Panel)
+,Panel,hmda_2013_panel.csv,Respondent City (Panel)
+,Panel,hmda_2013_panel.csv,Respondent State (Panel)
+,Panel,hmda_2013_panel.csv,Top Holder RSSD ID
+,Panel,hmda_2013_panel.csv,Top Holder Name
+,Panel,hmda_2013_panel.csv,Top Holder City
+,Panel,hmda_2013_panel.csv,Top Holder State
+,Panel,hmda_2013_panel.csv,Top Holder Country
+,Panel,hmda_2013_panel.csv,Respondent RSSD ID
+,Panel,hmda_2013_panel.csv,Parent RSSD ID
+,Panel,hmda_2013_panel.csv,Respondent FIPS State Number
+,Panel,2021_public_panel_one_year_csv.csv,activity_year
+,Panel,2021_public_panel_one_year_csv.csv,upper
+,Panel,2021_public_panel_one_year_csv.csv,tax_id
+,Panel,2021_public_panel_one_year_csv.csv,agency_code
+,Panel,2021_public_panel_one_year_csv.csv,id_2017
+,Panel,2021_public_panel_one_year_csv.csv,respondent_rssd
+,Panel,2021_public_panel_one_year_csv.csv,respondent_name
+,Panel,2021_public_panel_one_year_csv.csv,respondent_state
+,Panel,2021_public_panel_one_year_csv.csv,respondent_city
+,Panel,2021_public_panel_one_year_csv.csv,assets
+,Panel,2021_public_panel_one_year_csv.csv,other_lender_code
+,Panel,2021_public_panel_one_year_csv.csv,parent_rssd
+,Panel,2021_public_panel_one_year_csv.csv,parent_name
+,Panel,2021_public_panel_one_year_csv.csv,topholder_rssd
+,Panel,2021_public_panel_one_year_csv.csv,topholder_name
+,TS,2021_public_ts_one_year_csv.csv,activity_year
+,TS,2021_public_ts_one_year_csv.csv,calendar_quarter
+,TS,2021_public_ts_one_year_csv.csv,lei
+,TS,2021_public_ts_one_year_csv.csv,tax_id
+,TS,2021_public_ts_one_year_csv.csv,agency_code
+,TS,2021_public_ts_one_year_csv.csv,respondent_name
+,TS,2021_public_ts_one_year_csv.csv,respondent_state
+,TS,2021_public_ts_one_year_csv.csv,respondent_city
+,TS,2021_public_ts_one_year_csv.csv,respondent_zip_code
+,TS,2021_public_ts_one_year_csv.csv,lar_count
+,LAR,2019_public_lar_one_year.csv,activity_year
+,LAR,2019_public_lar_one_year.csv,lei
+,LAR,2019_public_lar_one_year.csv,derived_msa_md
+,LAR,2019_public_lar_one_year.csv,state_code
+,LAR,2019_public_lar_one_year.csv,county_code
+,LAR,2019_public_lar_one_year.csv,census_tract
+,LAR,2019_public_lar_one_year.csv,conforming_loan_limit
+,LAR,2019_public_lar_one_year.csv,derived_loan_product_type
+,LAR,2019_public_lar_one_year.csv,derived_dwelling_category
+,LAR,2019_public_lar_one_year.csv,derived_ethnicity
+,LAR,2019_public_lar_one_year.csv,derived_race
+,LAR,2019_public_lar_one_year.csv,derived_sex
+,LAR,2019_public_lar_one_year.csv,action_taken
+,LAR,2019_public_lar_one_year.csv,purchaser_type
+,LAR,2019_public_lar_one_year.csv,preapproval
+,LAR,2019_public_lar_one_year.csv,loan_type
+,LAR,2019_public_lar_one_year.csv,loan_purpose
+,LAR,2019_public_lar_one_year.csv,lien_status
+,LAR,2019_public_lar_one_year.csv,reverse_mortgage
+,LAR,2019_public_lar_one_year.csv,open_end_line_of_credit
+,LAR,2019_public_lar_one_year.csv,business_or_commercial_purpose
+,LAR,2019_public_lar_one_year.csv,loan_amount
+,LAR,2019_public_lar_one_year.csv,combined_loan_to_value_ratio
+,LAR,2019_public_lar_one_year.csv,interest_rate
+,LAR,2019_public_lar_one_year.csv,rate_spread
+,LAR,2019_public_lar_one_year.csv,hoepa_status
+,LAR,2019_public_lar_one_year.csv,total_loan_costs
+,LAR,2019_public_lar_one_year.csv,total_points_and_fees
+,LAR,2019_public_lar_one_year.csv,origination_charges
+,LAR,2019_public_lar_one_year.csv,discount_points
+,LAR,2019_public_lar_one_year.csv,lender_credits
+,LAR,2019_public_lar_one_year.csv,loan_term
+,LAR,2019_public_lar_one_year.csv,prepayment_penalty_term
+,LAR,2019_public_lar_one_year.csv,intro_rate_period
+,LAR,2019_public_lar_one_year.csv,negative_amortization
+,LAR,2019_public_lar_one_year.csv,interest_only_payment
+,LAR,2019_public_lar_one_year.csv,balloon_payment
+,LAR,2019_public_lar_one_year.csv,other_nonamortizing_features
+,LAR,2019_public_lar_one_year.csv,property_value
+,LAR,2019_public_lar_one_year.csv,construction_method
+,LAR,2019_public_lar_one_year.csv,occupancy_type
+,LAR,2019_public_lar_one_year.csv,manufactured_home_secured_property_type
+,LAR,2019_public_lar_one_year.csv,manufactured_home_land_property_interest
+,LAR,2019_public_lar_one_year.csv,total_units
+,LAR,2019_public_lar_one_year.csv,multifamily_affordable_units
+,LAR,2019_public_lar_one_year.csv,income
+,LAR,2019_public_lar_one_year.csv,debt_to_income_ratio
+,LAR,2019_public_lar_one_year.csv,applicant_credit_score_type
+,LAR,2019_public_lar_one_year.csv,co_applicant_credit_score_type
+,LAR,2019_public_lar_one_year.csv,applicant_ethnicity_1
+,LAR,2019_public_lar_one_year.csv,applicant_ethnicity_2
+,LAR,2019_public_lar_one_year.csv,applicant_ethnicity_3
+,LAR,2019_public_lar_one_year.csv,applicant_ethnicity_4
+,LAR,2019_public_lar_one_year.csv,applicant_ethnicity_5
+,LAR,2019_public_lar_one_year.csv,co_applicant_ethnicity_1
+,LAR,2019_public_lar_one_year.csv,co_applicant_ethnicity_2
+,LAR,2019_public_lar_one_year.csv,co_applicant_ethnicity_3
+,LAR,2019_public_lar_one_year.csv,co_applicant_ethnicity_4
+,LAR,2019_public_lar_one_year.csv,co_applicant_ethnicity_5
+,LAR,2019_public_lar_one_year.csv,applicant_ethnicity_observed
+,LAR,2019_public_lar_one_year.csv,co_applicant_ethnicity_observed
+,LAR,2019_public_lar_one_year.csv,applicant_race_1
+,LAR,2019_public_lar_one_year.csv,applicant_race_2
+,LAR,2019_public_lar_one_year.csv,applicant_race_3
+,LAR,2019_public_lar_one_year.csv,applicant_race_4
+,LAR,2019_public_lar_one_year.csv,applicant_race_5
+,LAR,2019_public_lar_one_year.csv,co_applicant_race_1
+,LAR,2019_public_lar_one_year.csv,co_applicant_race_2
+,LAR,2019_public_lar_one_year.csv,co_applicant_race_3
+,LAR,2019_public_lar_one_year.csv,co_applicant_race_4
+,LAR,2019_public_lar_one_year.csv,co_applicant_race_5
+,LAR,2019_public_lar_one_year.csv,applicant_race_observed
+,LAR,2019_public_lar_one_year.csv,co_applicant_race_observed
+,LAR,2019_public_lar_one_year.csv,applicant_sex
+,LAR,2019_public_lar_one_year.csv,co_applicant_sex
+,LAR,2019_public_lar_one_year.csv,applicant_sex_observed
+,LAR,2019_public_lar_one_year.csv,co_applicant_sex_observed
+,LAR,2019_public_lar_one_year.csv,applicant_age
+,LAR,2019_public_lar_one_year.csv,co_applicant_age
+,LAR,2019_public_lar_one_year.csv,applicant_age_above_62
+,LAR,2019_public_lar_one_year.csv,co_applicant_age_above_62
+,LAR,2019_public_lar_one_year.csv,submission_of_application
+,LAR,2019_public_lar_one_year.csv,initially_payable_to_institution
+,LAR,2019_public_lar_one_year.csv,aus_1
+,LAR,2019_public_lar_one_year.csv,aus_2
+,LAR,2019_public_lar_one_year.csv,aus_3
+,LAR,2019_public_lar_one_year.csv,aus_4
+,LAR,2019_public_lar_one_year.csv,aus_5
+,LAR,2019_public_lar_one_year.csv,denial_reason_1
+,LAR,2019_public_lar_one_year.csv,denial_reason_2
+,LAR,2019_public_lar_one_year.csv,denial_reason_3
+,LAR,2019_public_lar_one_year.csv,denial_reason_4
+,LAR,2019_public_lar_one_year.csv,tract_population
+,LAR,2019_public_lar_one_year.csv,tract_minority_population_percent
+,LAR,2019_public_lar_one_year.csv,ffiec_msa_md_median_family_income
+,LAR,2019_public_lar_one_year.csv,tract_to_msa_income_percentage
+,LAR,2019_public_lar_one_year.csv,tract_owner_occupied_units
+,LAR,2019_public_lar_one_year.csv,tract_one_to_four_family_homes
+,LAR,2019_public_lar_one_year.csv,tract_median_age_of_housing_units
+,TS,hmda_2013_transmittal_sheet.csv,Activity Year
+,TS,hmda_2013_transmittal_sheet.csv,Respondent ID
+,TS,hmda_2013_transmittal_sheet.csv,Agency Code
+,TS,hmda_2013_transmittal_sheet.csv,Federal Tax ID
+,TS,hmda_2013_transmittal_sheet.csv,Respondent Name
+,TS,hmda_2013_transmittal_sheet.csv,Respondent Mailing Address
+,TS,hmda_2013_transmittal_sheet.csv,Respondent City
+,TS,hmda_2013_transmittal_sheet.csv,Respondent State
+,TS,hmda_2013_transmittal_sheet.csv,Respondent ZIP Code
+,TS,hmda_2013_transmittal_sheet.csv,Parent Name
+,TS,hmda_2013_transmittal_sheet.csv,Parent Address
+,TS,hmda_2013_transmittal_sheet.csv,Parent City
+,TS,hmda_2013_transmittal_sheet.csv,Parent State
+,TS,hmda_2013_transmittal_sheet.csv,Parent ZIP Code
+,TS,hmda_2013_transmittal_sheet.csv,Respondent Name (Panel)
+,TS,hmda_2013_transmittal_sheet.csv,Respondent City (Panel)
+,TS,hmda_2013_transmittal_sheet.csv,Respondent State (Panel)
+,TS,hmda_2013_transmittal_sheet.csv,Assets
+,TS,hmda_2013_transmittal_sheet.csv,Other Lender Code
+,TS,hmda_2013_transmittal_sheet.csv,Region Code
+,TS,hmda_2013_transmittal_sheet.csv,LAR Count
+,TS,hmda_2013_transmittal_sheet.csv,Validity Error
+,Panel,2023_public_panel_csv.csv,activity_year
+,Panel,2023_public_panel_csv.csv,lei
+,Panel,2023_public_panel_csv.csv,tax_id
+,Panel,2023_public_panel_csv.csv,agency_code
+,Panel,2023_public_panel_csv.csv,id_2017
+,Panel,2023_public_panel_csv.csv,respondent_rssd
+,Panel,2023_public_panel_csv.csv,respondent_name
+,Panel,2023_public_panel_csv.csv,respondent_state
+,Panel,2023_public_panel_csv.csv,respondent_city
+,Panel,2023_public_panel_csv.csv,assets
+,Panel,2023_public_panel_csv.csv,other_lender_code
+,Panel,2023_public_panel_csv.csv,parent_rssd
+,Panel,2023_public_panel_csv.csv,parent_name
+,Panel,2023_public_panel_csv.csv,topholder_rssd
+,Panel,2023_public_panel_csv.csv,topholder_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,as_of_year
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,respondent_id
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_abbr
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_code
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_amount_000s
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_abbr
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_code
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_code
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,census_tract_number
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_1
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_1
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_2
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_2
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_3
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_3
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_4
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_4
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_5
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_5
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_1
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_1
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_2
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_2
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_3
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_3
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_4
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_4
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_5
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_5
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_income_000s
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_1
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_1
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_2
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_2
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_3
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_3
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,rate_spread
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status_name
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,sequence_number
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,population
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,minority_population
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hud_median_family_income
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,tract_to_msamd_income
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_owner_occupied_units
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_1_to_4_family_units
+,LAR,hmda_2012_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,application_date_indicator
+,Panel,hmda_2015_panel.csv,Activity Year
+,Panel,hmda_2015_panel.csv,Respondent ID
+,Panel,hmda_2015_panel.csv,Agency Code
+,Panel,hmda_2015_panel.csv,Parent Respondent ID
+,Panel,hmda_2015_panel.csv,Parent Name (Panel)
+,Panel,hmda_2015_panel.csv,Parent City (Panel)
+,Panel,hmda_2015_panel.csv,Parent State (Panel)
+,Panel,hmda_2015_panel.csv,Region
+,Panel,hmda_2015_panel.csv,Assets
+,Panel,hmda_2015_panel.csv,Other Lender Code
+,Panel,hmda_2015_panel.csv,Respondent Name (Panel)
+,Panel,hmda_2015_panel.csv,Respondent City (Panel)
+,Panel,hmda_2015_panel.csv,Respondent State (Panel)
+,Panel,hmda_2015_panel.csv,Top Holder RSSD ID
+,Panel,hmda_2015_panel.csv,Top Holder Name
+,Panel,hmda_2015_panel.csv,Top Holder City
+,Panel,hmda_2015_panel.csv,Top Holder State
+,Panel,hmda_2015_panel.csv,Top Holder Country
+,Panel,hmda_2015_panel.csv,Respondent RSSD ID
+,Panel,hmda_2015_panel.csv,Parent RSSD ID
+,Panel,hmda_2015_panel.csv,Respondent FIPS State Number
+,TS,hmda_2011_transmittal_sheet.csv,Activity Year
+,TS,hmda_2011_transmittal_sheet.csv,Respondent ID
+,TS,hmda_2011_transmittal_sheet.csv,Agency Code
+,TS,hmda_2011_transmittal_sheet.csv,Federal Tax ID
+,TS,hmda_2011_transmittal_sheet.csv,Respondent Name
+,TS,hmda_2011_transmittal_sheet.csv,Respondent Mailing Address
+,TS,hmda_2011_transmittal_sheet.csv,Respondent City
+,TS,hmda_2011_transmittal_sheet.csv,Respondent State
+,TS,hmda_2011_transmittal_sheet.csv,Respondent ZIP Code
+,TS,hmda_2011_transmittal_sheet.csv,Parent Name
+,TS,hmda_2011_transmittal_sheet.csv,Parent Address
+,TS,hmda_2011_transmittal_sheet.csv,Parent City
+,TS,hmda_2011_transmittal_sheet.csv,Parent State
+,TS,hmda_2011_transmittal_sheet.csv,Parent ZIP Code
+,TS,hmda_2011_transmittal_sheet.csv,Respondent Name (Panel)
+,TS,hmda_2011_transmittal_sheet.csv,Respondent City (Panel)
+,TS,hmda_2011_transmittal_sheet.csv,Respondent State (Panel)
+,TS,hmda_2011_transmittal_sheet.csv,Assets
+,TS,hmda_2011_transmittal_sheet.csv,Other Lender Code
+,TS,hmda_2011_transmittal_sheet.csv,Region Code
+,TS,hmda_2011_transmittal_sheet.csv,LAR Count
+,TS,hmda_2011_transmittal_sheet.csv,Validity Error
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,as_of_year
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,respondent_id
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_abbr
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,agency_code
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_type
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,property_type
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_purpose
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,owner_occupancy
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,loan_amount_000s
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,preapproval
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,action_taken
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,msamd
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_abbr
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,state_code
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,county_code
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,census_tract_number
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_ethnicity
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_ethnicity
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_1
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_1
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_2
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_2
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_3
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_3
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_4
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_4
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_name_5
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_race_5
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_1
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_1
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_2
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_2
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_3
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_3
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_4
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_4
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_name_5
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_race_5
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_sex
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,co_applicant_sex
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,applicant_income_000s
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,purchaser_type
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_1
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_1
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_2
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_2
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_name_3
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,denial_reason_3
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,rate_spread
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hoepa_status
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,lien_status
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status_name
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,edit_status
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,sequence_number
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,population
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,minority_population
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,hud_median_family_income
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,tract_to_msamd_income
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_owner_occupied_units
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,number_of_1_to_4_family_units
+,LAR,hmda_2016_nationwide_first-lien-owner-occupied-1-4-family-records_labels.csv,application_date_indicator

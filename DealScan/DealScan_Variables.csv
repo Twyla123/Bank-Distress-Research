@@ -1,0 +1,102 @@
+Variable,Description,Source
+All-in Spread Undrawn,Total (fees and interest) annual spread over LIBOR for each dollar available under a commitment,Dealscan
+Lead Share,Share of the loan that is retained by lead arranger at the loan origination,Dealscan
+Herfindahl Index,"Herfindahl concentration index of the loan syndicate, sum of squared share held by each participant",Dealscan
+Number of Participants,Number of participants (excluding lead arrangers) in the original syndicate,Dealscan
+Private,Dummy variable equal to 1 if the borrower is not publicly traded,Dealscan
+Senior Debt Rating NIG,Dummy variable equal to 1 if the borrower’s senior debt rating is BB or below,Dealscan
+Not Rated,Dummy variable equal to 1 if the borrower is not rated or the data is missing,Dealscan/Compustat
+Log (Sales at Close),Logarithm of the sales at close,Dealscan
+Assets,Total assets in millions,Compustat
+Leverage,Ratio of book value of debt to total assets,Compustat
+R&D / Sales,Ratio of research and development to sales,Compustat
+Accruals / Assets,Difference between Operating Activities Net Cash Flow and Income Before Extra Items scaled by assets,Compustat
+Abs. Accruals / Assets,Absolute value of accruals scaled by total assets,Compustat
+Previous Syndicated Loans,Dummy variable equal to 1 if the borrower was previously issued a syndicated loan,Dealscan
+High Volatility,Dummy variable equal to 1 if CRSP borrower’s volatility of stock returns is above industry portfolio volatility,Dealscan
+Facility Amount,Total facility amount in million dollars,Dealscan
+Maturity,Maturity of the facility in months,Dealscan
+Collateral,Dummy variable equal to 1 if the loan is secured,Dealscan
+Financial Covenants,Dummy variable equal to 1 if the loan has financial covenants,Dealscan
+Dividends Restrictions,Dummy variable equal to 1 if the loan has general covenants restricting dividend payment,Dealscan
+Prime Base Rate,Dummy variable equal to 1 if the base rate is Prime,Dealscan
+Performance Pricing (Increasing/Decreasing),Dummy variable equal to 1 if the loan has increasing/decreasing performance pricing specified,Dealscan
+Revolve Line < 1,Dummy variable equal to 1 if the loan is a revolving line with maturity below one year,Dealscan
+Nonbank,Indicator variable equal to one for nonbank lenders and zero for bank lenders,Dealscan
+Past Nonbank Share,Industry-level ratio of nonbank syndicated borrowing to total syndicated borrowing over a specific period,Dealscan
+Past Nonbank Relation,Indicator variable equal to one for borrowers who have previously borrowed from a nonbank,Dealscan
+All Loans,Log of total credit extended to a borrower in a quarter,Dealscan
+Term Loans,Log of total term loan amount extended by a lender to a borrower in a quarter,Dealscan
+Credit Lines,Log of total credit line amount extended by a lender to a borrower in a quarter,Dealscan
+Spread,Log of all-in Spread,Dealscan
+New Loan,Indicator variable equal to one if the firm takes out a new loan in the quarter,Dealscan
+Total Borrowing,Log of total credit extended to a borrower in a quarter (sum across lenders),Dealscan
+Merger Lead Allocation,Indicator variable equal to 1 if the lead bank was involved in a merger over the one-year period preceding the loan issuance date,Dealscan
+Syndicate Concentration (Herfindahl Index),Herfindahl-Hirschmann index of loan holdings among syndicate members,Dealscan
+Participant-Lead No-Relationship,Indicator variable equal to 1 if the participant has not been involved in a deal with the lead arranger over the one-year period preceding the loan issuance date,Dealscan
+ROA,"Ratio of the borrower's income before extraordinary items to its total assets, estimated in the quarter preceding a loan’s issuance",Compustat
+Interest Coverage,"Ratio of earnings before interest and tax to interest expense, estimated in the quarter preceding a loan’s issuance",Compustat
+Leverage,"Ratio of total liabilities to the book value of assets, estimated in the quarter preceding a loan’s issuance",Compustat
+Size,"Natural logarithm of the book value of assets, estimated in the quarter preceding a loan’s issuance",Compustat
+MTB,"Ratio of the market value of equity to the book value of equity, estimated in the quarter preceding a loan’s issuance",Compustat
+Investment Rating,Indicator variable equal to 1 if the borrower has an investment-grade senior debt rating from S&P,Dealscan
+Amount,Natural logarithm of the facility amount in U.S. dollars,Dealscan
+Maturity,Natural logarithm of the number of months to maturity,Dealscan
+Spread,Natural logarithm of the all-in-drawn spread over LIBOR,Dealscan
+PP (Performance Pricing),Indicator variable equal to 1 if the loan has a performance pricing provision,Dealscan
+Collateral,Indicator variable equal to 1 if the loan is secured,Dealscan
+Covenants,Number of financial covenants,Dealscan
+Revolver,Indicator variable equal to 1 if the loan is a revolving line of credit,Dealscan
+Term Loan B,"Indicator variable equal to 1 if the loan type is a term loan B or below (C, D, E, F)",Dealscan
+Borrower-Lead Relationship,Indicator variable equal to 1 if a loan’s lead arranger has syndicated a loan to the borrower over the five-year period preceding the loan issuance date,Dealscan
+# of Lenders,Number of participating lenders in a syndicate,Dealscan
+Lender Size,Natural logarithm of the bank holding company’s (BHC’s) book value of total assets,Dealscan
+Lender Deposits,Ratio of the BHC’s total deposits to its total book assets,Dealscan
+Lender Loans,Ratio of the BHC’s total loans (net of unearned income) to its total book assets,Dealscan
+First Time Lead,Indicator variable equal to 1 if the lender serves as the lead arranger for the first time,Dealscan
+All-in Spread Drawn,Total (fees and interest) annual spread paid over LIBOR for each dollar drawn down from the loan,Dealscan
+All-in Spread Undrawn,Total (fees and interest) annual spread over LIBOR for each dollar available under a commitment,Dealscan
+Lead Share,Share of the loan that is retained by lead arranger at the loan origination,Dealscan
+Herfindahl Index,"Herfindahl concentration index of the loan syndicate, sum of squared share held by each participant",Dealscan
+Number of Participants,Number of participants (excluding lead arrangers) in the original syndicate,Dealscan
+Private,Dummy variable equal to 1 if the borrower is not publicly traded,Dealscan
+Senior Debt Rating NIG,Dummy variable equal to 1 if the borrower’s senior debt rating is BB or below (S&P/Moody’s),Dealscan
+Not Rated,Dummy variable equal to 1 if the borrower is not rated or data is missing,Dealscan/Compustat
+Log (Sales at Close),Logarithm of the sales at close,Dealscan
+Leverage,Ratio of book value of debt to total assets,Compustat
+Assets,Total assets in millions,Compustat
+R&D / Sales,Ratio of research and development to sales,Compustat
+Accruals / Assets,Difference between Operating Activities Net Cash Flow and Income Before Extra Items scaled by assets,Compustat
+Abs. Accruals / Assets,Absolute value of accruals scaled by total assets,Compustat
+Previous Syndicated Loans,Dummy variable equal to 1 if the borrower was previously issued a syndicated loan,Dealscan
+High Volatility,Dummy variable equal to 1 if borrower’s stock return volatility is above industry portfolio volatility,Dealscan
+Facility Amount,Total facility amount in million dollars,Dealscan
+Maturity,Maturity of the facility in months,Dealscan
+Collateral,Dummy variable equal to 1 if the loan is secured,Dealscan
+Financial Covenants,Dummy variable equal to 1 if the loan has financial covenants,Dealscan
+Dividends Restrictions,Dummy variable equal to 1 if the loan has general covenants restricting dividend payment,Dealscan
+Prime Base Rate,Dummy variable equal to 1 if the base rate is Prime,Dealscan
+Performance Pricing (Increasing/Decreasing),Dummy variable equal to 1 if the loan has increasing/decreasing performance pricing,Dealscan
+Revolve Line < 1,Dummy variable equal to 1 if the loan is a revolving line with maturity below one year,Dealscan
+Term Loan A,Dummy variable equal to 1 if the loan is a Term Loan A (syndicated to commercial banks),Dealscan
+Term Loan B-D,Dummy variable equal to 1 if the loan is a Term Loan B-D (syndicated to institutional investors),Dealscan
+Lead Bank Market Share,Percentage of loans led by the arranger over the year in the syndicated loan market,Dealscan
+Relationship within Syndicate,Dummy variable equal to 1 if the lead arranger had a prior relationship with at least one syndicate member,Dealscan
+Bank Assets,Bank assets in billions,Compustat/Call Reports
+Capital Tier 1,Ratio of Tier 1 capital to assets,Compustat/Call Reports
+Nonbank,Indicator variable equal to one for nonbank lenders and zero for bank lenders,Thomson Reuters LPC DealScan
+Past Nonbank Share,Industry-level ratio of nonbank syndicated borrowing to total syndicated borrowing over 1990-1996,Thomson Reuters LPC DealScan
+Past Nonbank Relation,Indicator variable equal to one for borrowers who have previously borrowed from a nonbank (excluding loans in the previous two years),Thomson Reuters LPC DealScan
+All Loans,Log of total credit extended to a borrower in a quarter,Thomson Reuters LPC DealScan
+Term Loans,Log of total term loan amount extended by a lender to a borrower in a quarter,Thomson Reuters LPC DealScan
+Credit Lines,Log of total credit line amount extended by a lender to a borrower in a quarter,Thomson Reuters LPC DealScan
+Spread,Log of all-in Spread,Thomson Reuters LPC DealScan
+New Loan,Indicator variable equal to one if the firm takes out a new loan in the quarter,Thomson Reuters LPC DealScan
+Total Borrowing,Log of total credit extended to a borrower in a quarter (sum across lenders),Thomson Reuters LPC DealScan
+Total Debt,Log of total debt (dlcq + dlttq),S&P Compustat
+Leverage,Book leverage ((dlcq + dlttq ) / atq),S&P Compustat
+Liquidity,Ratio of cash and short-term investments to total assets (cheq / atq),S&P Compustat
+Fixed Assets,"Ratio of property, plant and equipment to total assets (ppentq / atq)",S&P Compustat
+Real Gross Output,Log of real industry-level gross output,Bureau of Economic Analysis
+Real Value Added,Log of real industry-level value added,Bureau of Economic Analysis
+High Yield,Indicator variable equal to one if the borrower has a high-yield credit rating,S&P Compustat
