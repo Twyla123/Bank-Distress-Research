@@ -9,7 +9,7 @@ Project page with the full write-up: https://twyla123.github.io/Digital_Portfoli
 | | |
 |---|---|
 | **341 of 413** lender IDs matched to one institution each | tiered ID matching (holding company 242 → bank 15 → subsidiary walked up the ownership tree 3) plus a credit-union cross-check (81); the remaining 72 are listed as unresolved rather than forced |
-| **10** regulatory and market datasets joined | FFIEC Call Reports, FR Y-9C, NIC relationships, FDIC, NCUA, NY Fed CRSP–FRB link, HMDA, SEC 10-K filings, CRSP/Compustat, LPC DealScan, plus a proprietary lines-of-credit file |
+| **10** regulatory and market datasets joined | FFIEC Call Reports, FR Y-9C, NIC relationships, FDIC, NCUA, NY Fed CRSP–FRB link, HMDA, CRSP/Compustat, LPC DealScan, plus a proprietary lines-of-credit file; totals checked against SEC 10-K filings |
 | **12 years** of HMDA loan-level records standardized | 2012–2023 lender × MSA × year panel, aligned field by field across the 2018 reporting-standard break |
 | **441 of 28,568** DealScan deals (1.54%) flagged | more distinct tranche-active dates than deal-input dates: a recording gap in the source that would inflate apparent time variation in firm-time fixed effects |
 
@@ -32,7 +32,7 @@ Project page with the full write-up: https://twyla123.github.io/Digital_Portfoli
 
 ## Method in one paragraph
 
-Every source identifies a bank with its own key at its own level of the ownership tree: RSSD at bank level, RSSD at holding-company level, FDIC certificate, NCUA number, PERMCO, ticker, LEI, HMDA respondent ID, DealScan lender-parent ID. The work was deciding, pair by pair, what "the same institution" means, and making each decision auditable: every match carries a tier label, every ambiguous case is written out for inspection, and every filter has a verification pass that prints what survived. Rolled-up totals were compared against the FR Y-9C, FDIC and Call Report versions of the same quantity, and spot-checked against nine 2022 10-K filings.
+Every source identifies a bank with its own key at its own level of the ownership tree: RSSD at bank level, RSSD at holding-company level, FDIC certificate, NCUA number, PERMCO, ticker, LEI, HMDA respondent ID, DealScan lender-parent ID. The work was deciding, pair by pair, what "the same institution" means, and making each decision auditable: every match carries a tier label, every ambiguous case is written out for inspection, and every filter has a verification pass that prints what survived. Rolled-up totals were compared against the FR Y-9C, FDIC and Call Report versions of the same quantity, and spot-checked against nine 10-K filings.
 
 ## Repository map
 
